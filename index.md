@@ -20,7 +20,7 @@
   
     <!--Profile Picture-->
     <div class="profile-picture">
-      <img src="PersonalWebsiteProfilePictureOption1.jpg" alt="Profile Picture">
+      <img src="./PersonalWebsiteProfilePictureOption1.jpg" alt="Profile Picture">
     </div>
   
     <!--Scholar Section-->
